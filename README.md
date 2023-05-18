@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm made putra teguh pramana</h1>
-<h3 align="center">A data scientist from indonesia | a student at Udayana University</h3>
+<h3 align="center">a junior data scientist from indonesia | a junior web developer | a student at Udayana University </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madeputrateg&label=Profile%20views&color=0e75b6&style=flat" alt="madeputrateg" /> </p>
 
